@@ -1,8 +1,8 @@
 # SBSPS-Challenge-9355-NFT-Sales-Analytics-Dashboard
 **NFT Sales Analytics Dashboard**</br>
 This Project is a Submission for IBM-SmartInternz Hack Challenge 2022</br>
-TEAM- **Zeros and Ones Warriors**
-TEAM MEMBERS- Jayanthan, Magesh, Kannan, Panneer Subramanian
+TEAM- **Zeros and Ones Warriors**<br>
+TEAM MEMBERS- Jayanthan, Magesh, Kannan, Panneer Subramanian<br>
 
 https://drive.google.com/drive/folders/1VSulveIKTxnPqQE_WQtdfMRzCLtiTGFZ?usp=sharing 
 </br>
